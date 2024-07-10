@@ -1,0 +1,13 @@
+body {
+    background-color: pink;
+    text-align: center;
+    color: blue;
+}
+#board{
+    background-color: green;
+    width: 40vw;
+    height: 40vw;
+}
+#name{
+    color: gray;
+}
